@@ -1,7 +1,7 @@
 'use client';
 import React, { useState } from 'react';
 import { Dialog, DialogPanel, DialogTitle, DialogBackdrop } from '@headlessui/react';
-import gian from "../assets/gian.png";
+import gian from "../assets/Gian.png";
 import joris from "../assets/joris.png";
 import jerame from "../assets/jerame.png";
 import jeramePopUp from "../assets/jeramePopUp.jpg"

@@ -10,7 +10,6 @@ import jerame from "./assets/jerame.png"
 import { Route, Routes } from "react-router"
 import Skills from "./components/Skills"
 import Crosshair from "./components/CrosshairCursor"
-import PortfolioPage from "./components/PortfolioPage"
 function App() {
 
 
@@ -22,7 +21,6 @@ function App() {
         <Navbar />
         <Title />
       </header>
-      <PortfolioPage />
       <Card />
       <Skills />
       <Contact />

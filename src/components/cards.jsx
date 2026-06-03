@@ -1,14 +1,8 @@
 'use client';
-<<<<<<< HEAD
 import React, { useState, useEffect } from 'react';
 
 // Imports (Ensure these paths are correct in your project)
 import gian from "../assets/gian.png";
-=======
-import React, { useState } from 'react';
-import { Dialog, DialogPanel, DialogTitle, DialogBackdrop } from '@headlessui/react';
-import gian from "../assets/Gian.png";
->>>>>>> 117f25e080f26ba03f7da162f3cb5596af1ef94a
 import joris from "../assets/joris.png";
 import jerame from "../assets/jerame.png";
 import jeramePopUp from "../assets/jeramePopUp.jpg";

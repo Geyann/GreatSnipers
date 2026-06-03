@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 
 // Imports (Ensure these paths are correct in your project)
-import gian from "../assets/gian.png";
+import gian from "../assets/Gian.png";
 import joris from "../assets/joris.png";
 import jerame from "../assets/jerame.png";
 import jeramePopUp from "../assets/jeramePopUp.jpg";

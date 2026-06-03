@@ -239,13 +239,16 @@ body{
 
 .text-change span {
   opacity: 0;
-  animation: changeWord 6S infinite;
+  animation: changeWord 12S linear infinite;
 }
 
 /* Delay each word so they appear one after another */
 .text-change span:nth-child(1) { animation-delay: 0s; }
 .text-change span:nth-child(2) { animation-delay: 2s; }
 .text-change span:nth-child(3) { animation-delay: 4s; }
+.text-change span:nth-child(4) { animation-delay: 6s; }
+.text-change span:nth-child(5) { animation-delay: 8s; }
+.text-change span:nth-child(6) { animation-delay: 10s; }
 
 @keyframes changeWord {
   0%, 10%, 100% { opacity: 0; }

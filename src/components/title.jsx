@@ -27,9 +27,12 @@ const Title = () => {
           </h1>
           <h1 className="text-4xl text-center lg:text-6xl font-bold tracking-tight text-white">
             <span className="text-change">
-              <span className="gradient-text">GREAT SNIPERS</span>
-              <span className="gradient-text">ACTIVE SNIPERS</span>
-              <span className="gradient-text">LEGEND SNIPERS</span>
+              <span className="gradient-text"> GREAT SNIPERS</span>
+              <span className="gradient-text"> ACTIVE SNIPERS</span>
+              <span className="gradient-text"> LEGEND SNIPERS</span>
+              <span className="gradient-text"> PRECISION SNIPERS</span>
+              <span className="gradient-text"> STEALTH SNIPERS</span>
+              <span className="gradient-text"> SHARP SNIPERS</span>
               </span>
           </h1>
           <h2 className="mt-6 text-xl md:text-2xl text-gray-300 text-center">

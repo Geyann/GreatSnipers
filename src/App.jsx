@@ -4,13 +4,10 @@ import Title from "./components/title"
 import Contact from "./components/contact"
 import Foot from "./components/Foot"
 import Card from "./components/cards"
-import gian from "./assets/gian.png"
-import joris from "./assets/joris.png"
-import jerame from "./assets/jerame.png"
 import { Route, Routes } from "react-router"
 import Skills from "./components/Skills"
 import Crosshair from "./components/CrosshairCursor"
-import PortfolioPage from "./components/PortfolioPage"
+import PortfolioGrid from "./components/PortfolioGrid"
 function App() {
 
 
@@ -21,8 +18,8 @@ function App() {
       <header>
         <Navbar />
         <Title />
-      </header>
-      <PortfolioPage />
+      </header> 
+      <PortfolioGrid />
       <Card />
       <Skills />
       <Contact />
